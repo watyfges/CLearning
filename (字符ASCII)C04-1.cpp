@@ -1,3 +1,4 @@
+//读取三个字符 a、b 和 c，然后将这三个字符的 ASCII 值相加并输出结果
 #include <stdio.h>
 int main()
 {
